@@ -1,2 +1,2 @@
-# SurveyReading
-Read Survey and Notes
+# paper-read-notes
+Paper reading notes
