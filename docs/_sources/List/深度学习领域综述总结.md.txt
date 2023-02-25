@@ -4,7 +4,7 @@
 
 ## 2019->2020必看的十篇「深度学习领域综述」论文
 
-1、A guide to deep learning in healthcare（医疗深度学习技术指南）
+### 1、A guide to deep learning in healthcare（医疗深度学习技术指南）
 
 斯坦福&谷歌Jeff Dean最新Nature论文：医疗深度学习技术指南（29页综述）
 
@@ -20,7 +20,7 @@ Google 斯坦福 Nature Medicine
 
 https://www.nature.com/articles/s41591-018-0316-z
 
-2、Multimodal Machine Learning: A Survey and Taxonomy（多模态机器学习）
+### 2、Multimodal Machine Learning: A Survey and Taxonomy（多模态机器学习）
 
 人工智能顶刊TPAMI2019最新《多模态机器学习综述》
 
@@ -38,7 +38,7 @@ http://www.zhuanzhi.ai/paper/2236c08ef0cd1bc87cae0f14cfbb9915
 
 https://ieeexplore.ieee.org/document/8269806
 
-3、Few-shot Learning: A Survey（小样本学习）
+### 3、Few-shot Learning: A Survey（小样本学习）
 
 《小样本学习(Few-shot learning)》最新41页综述论文，来自港科大和第四范式
 
@@ -54,7 +54,7 @@ https://ieeexplore.ieee.org/document/8269806
 
 https://www.zhuanzhi.ai/paper/c7a2464c0865b9602a4103fb44659858
 
-4、meta Learning: A Survey（元学习）
+### 4、meta Learning: A Survey（元学习）
 
 元学习(Meta-Learning) 综述及五篇顶会论文推荐
 
@@ -68,7 +68,7 @@ https://www.zhuanzhi.ai/paper/c7a2464c0865b9602a4103fb44659858
 
 http://www.zhuanzhi.ai/paper/dd60eaffea966331e199fa531bae7044
 
-5、A Comprehensive Survey on Transfer Learning（迁移学习）
+### 5、A Comprehensive Survey on Transfer Learning（迁移学习）
 
 中科院发布最新迁移学习综述论文，带你全面了解40种迁移学习方法
 
@@ -84,7 +84,7 @@ https://arxiv.org/abs/1911.02685
 
 https://www.zhuanzhi.ai/paper/021fc3dc3356e0089f0e845408cc3aa4
 
-6、Multimodal Intelligence: Representation Learning, Information Fusion, and Applications（多模态智能论文综述：表示学习，信息融合与应用） 【IEEE Fellow何晓东&邓力】多模态智能论文综述：表示学习，信息融合与应用，259篇文献带你了解AI热点技术
+### 6、Multimodal Intelligence: Representation Learning, Information Fusion, and Applications（多模态智能论文综述：表示学习，信息融合与应用） 【IEEE Fellow何晓东&邓力】多模态智能论文综述：表示学习，信息融合与应用，259篇文献带你了解AI热点技术
 
 京东
 
@@ -100,7 +100,7 @@ https://arxiv.org/abs/1911.03977
 
 https://www.zhuanzhi.ai/paper/efe8f986342d215a8179d447624801ee
 
-7、Object Detection in 20 Years: A Survey（目标检测）
+### 7、Object Detection in 20 Years: A Survey（目标检测）
 
 密歇根大学40页《20年目标检测综述》最新论文，带你全面了解目标检测方法
 
@@ -116,7 +116,7 @@ https://arxiv.org/abs/1905.05055
 
 https://www.zhuanzhi.ai/paper/4d9c0fdcc5a0a2b796e44e214fc9cb02
 
-8、A Survey of Techniques for Constructing Chinese Knowledge Graphs and Their Applications（中文知识图谱）
+### 8、A Survey of Techniques for Constructing Chinese Knowledge Graphs and Their Applications（中文知识图谱）
 
 作者：Tianxing Wu, Guilin Qi ,*, Cheng Li and Meng Wang
 
@@ -128,7 +128,7 @@ https://www.zhuanzhi.ai/paper/4d9c0fdcc5a0a2b796e44e214fc9cb02
 
 https://www.mdpi.com/2071-1050/10/9/3245
 
-9、Advances and Open Problems in Federated Learning（联邦学习）
+### 9、Advances and Open Problems in Federated Learning（联邦学习）
 
 【重磅】联邦学习FL进展与开放问题万字综述论文，58位学者25家机构联合出品，105页pdf438篇文献
 
@@ -140,7 +140,7 @@ https://www.mdpi.com/2071-1050/10/9/3245
 
 https://arxiv.org/abs/1912.04977
 
-10、Optimization for deep learning: theory and algorithms（深度学习优化理论算法）
+### 10、Optimization for deep learning: theory and algorithms（深度学习优化理论算法）
 
 【2019年末硬货】深度学习的最优化:理论和算法综述论文，60页pdf257篇文献
 
@@ -158,7 +158,7 @@ https://www.zhuanzhi.ai/paper/2a5e7596942977067240c946ecd4bd47
 
 ## 2020->2021必看的十篇「深度学习领域综述」论文
 
-**1、Recent advances in deep learning theory（深度学习理论）**
+### **1、Recent advances in deep learning theory（深度学习理论）**
 
 陶大程院士等最新《深度学习理论进展》综述论文，41页pdf255篇文献阐述六大方面进展
 
@@ -168,7 +168,7 @@ https://www.zhuanzhi.ai/paper/2a5e7596942977067240c946ecd4bd47
 
 网址： https://www.zhuanzhi.ai/paper/b5ac0f259b59817b890b6c253123ee84
 
-**2、Learning from Very Few Samples: A Survey（少样本学习）**
+### **2、Learning from Very Few Samples: A Survey（少样本学习）**
 
 清华大学张长水等最新《少样本学习FSL》2020综述论文，30页pdf414篇参考文献
 
@@ -180,7 +180,7 @@ https://www.zhuanzhi.ai/paper/2a5e7596942977067240c946ecd4bd47
 
 https://www.zhuanzhi.ai/paper/ffc99a53aeb6629e21b9a42db76b9dd1
 
-**3、A Survey on Knowledge Graphs: Representation, Acquisition and Applications（知识图谱研究综述论文）**
+### **3、A Survey on Knowledge Graphs: Representation, Acquisition and Applications（知识图谱研究综述论文）**
 
 最新！知识图谱研究综述论文: 表示学习、知识获取与应用，25页pdf详述Knowledge Graphs技术趋势
 
@@ -192,7 +192,7 @@ https://www.zhuanzhi.ai/paper/ffc99a53aeb6629e21b9a42db76b9dd1
 
 https://www.zhuanzhi.ai/paper/00ef54883a71e52b240e26b2a6d25255
 
-**4、A Review on Generative Adversarial Networks: Algorithms, Theory, and Applications（生成式对抗网络综述论文）**
+### **4、A Review on Generative Adversarial Networks: Algorithms, Theory, and Applications（生成式对抗网络综述论文）**
 
 密歇根大学28页最新《GANs生成式对抗网络综述：算法、理论与应用》最新论文，带你全面了解GAN技术趋势
 
@@ -204,7 +204,7 @@ https://www.zhuanzhi.ai/paper/00ef54883a71e52b240e26b2a6d25255
 
 https://www.zhuanzhi.ai/paper/8b531e33d7c934d81892a029bc080a9c
 
-**5、A Survey on Causal Inference（因果推断综述论文）**
+### **5、A Survey on Causal Inference（因果推断综述论文）**
 
 最新「因果推断Causal Inference」综述论文38页pdf，阿里巴巴、Buffalo、Georgia、Virginia
 
@@ -216,7 +216,7 @@ https://www.zhuanzhi.ai/paper/8b531e33d7c934d81892a029bc080a9c
 
 https://www.zhuanzhi.ai/paper/a37f27ed97e5318b30be2999e9a768c3
 
-**6、Pre-trained Models for Natural Language Processing: A Survey（预训练语言模型）**
+### **6、Pre-trained Models for Natural Language Processing: A Survey（预训练语言模型）**
 
 【复旦大学】最新《预训练语言模型》2020综述论文大全，50+PTMs分类体系，25页pdf205篇参考文献
 
@@ -228,7 +228,7 @@ https://www.zhuanzhi.ai/paper/a37f27ed97e5318b30be2999e9a768c3
 
 https://www.zhuanzhi.ai/paper/09d78eda59ebfb6f51a54a3ba0a4c4b1
 
-**7、A Survey on Heterogeneous Graph Embedding: Methods, Techniques, Applications and Sources（异质图网络嵌入）**
+### **7、A Survey on Heterogeneous Graph Embedding: Methods, Techniques, Applications and Sources（异质图网络嵌入）**
 
 异质图嵌入综述: 方法、技术、应用和资源, 23页pdf
 
@@ -246,7 +246,7 @@ https://www.zhuanzhi.ai/paper/09d78eda59ebfb6f51a54a3ba0a4c4b1
 
 https://arxiv.org/abs/2011.14867
 
-**8、Graph Neural Networks: Taxonomy, Advances and Trends（图神经网络）**
+### **8、Graph Neural Networks: Taxonomy, Advances and Trends（图神经网络）**
 
 太原理工最新《图神经网络:分类,进展,趋势》综述论文，50页pdf400篇文献
 
@@ -258,7 +258,7 @@ https://arxiv.org/abs/2011.14867
 
 https://www.zhuanzhi.ai/paper/5d0088fdc236ec1a522b91077290e6f2
 
-**9、Efficient Transformers: A Survey（高效Transformer）**
+### **9、Efficient Transformers: A Survey（高效Transformer）**
 
 【Google】最新《高效Transformers》综述大全，Efficient Transformers: A Survey
 
@@ -272,7 +272,7 @@ https://www.zhuanzhi.ai/paper/5d0088fdc236ec1a522b91077290e6f2
 
 https://www.zhuanzhi.ai/paper/6f9193ca17c92d58e9e93a21335039f1
 
-**10、Self-supervised Learning: Generative or Contrastive（自监督学习）**
+### **10、Self-supervised Learning: Generative or Contrastive（自监督学习）**
 
 作者：Xiao Liu, Fanjin Zhang, Zhenyu Hou, Zhaoyu Wang, Li Mian, Jing Zhang, Jie Tang
 
@@ -286,7 +286,7 @@ https://www.zhuanzhi.ai/paper/6f9193ca17c92d58e9e93a21335039f1
 
 ## 2021->2022必看的十篇「深度学习领域综述」论文
 
-1、周志华教授：关于深度学习的一点思考
+### 1、周志华教授：关于深度学习的一点思考
 
 作者：周志华
 
@@ -294,7 +294,7 @@ https://www.zhuanzhi.ai/paper/6f9193ca17c92d58e9e93a21335039f1
 
 网址： https://mp.weixin.qq.com/s/yKzMxJ2pwwLYSO8ry0sJIQ
 
-2、Attention Mechanisms in Computer Vision: A Survey（注意力机制）
+### 2、Attention Mechanisms in Computer Vision: A Survey（注意力机制）
 
 清华&南开最新「视觉注意力机制Attention」综述论文，带你全面了解六大类注意力机制方法
 
@@ -304,7 +304,7 @@ https://www.zhuanzhi.ai/paper/6f9193ca17c92d58e9e93a21335039f1
 
 网址： https://www.zhuanzhi.ai/paper/2329d809f32ca0840bd93429d1cef0fe
 
-3、Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges（几何深度学习）
+### 3、Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges（几何深度学习）
 
 重磅！《几何深度学习》新书发布，帝国理工/DeepMind等图ML大牛共同撰写，160页pdf阐述几何DL基础原理和统一框架
 
@@ -320,7 +320,7 @@ https://geometricdeeplearning.com/
 
 https://www.zhuanzhi.ai/paper/1f6bbac326bd8b7c0c8554acaa169012
 
-4、A Survey of Transformers（Transformer综述论文）
+### 4、A Survey of Transformers（Transformer综述论文）
 
 复旦大学邱锡鹏教授等「Transformers全面综述」论文
 
@@ -330,7 +330,7 @@ https://www.zhuanzhi.ai/paper/1f6bbac326bd8b7c0c8554acaa169012
 
 网址： https://www.zhuanzhi.ai/paper/f03a47eb6ddb5d23c07f51662f3220a0
 
-5、Model Complexity of Deep Learning: A Survey（深度学习模型复杂性）
+### 5、Model Complexity of Deep Learning: A Survey（深度学习模型复杂性）
 
 裴健等发布首篇「深度学习模型复杂性」综述论文，44页pdf阐述深度学习模型框架、模型规模、优化过程和数据复杂性
 
@@ -348,7 +348,7 @@ https://www.zhuanzhi.ai/paper/1f6bbac326bd8b7c0c8554acaa169012
 
 网址： https://www.zhuanzhi.ai/paper/f7c683dfd6eb2f07eba0ed31d337345c
 
-6、Towards Out-Of-Distribution Generalization: A Survey（分布外泛化）
+### 6、Towards Out-Of-Distribution Generalization: A Survey（分布外泛化）
 
 清华大学崔鹏等最新「分布外泛化(Out-Of-Distribution Generalization)」 综述论文
 
@@ -358,7 +358,7 @@ https://www.zhuanzhi.ai/paper/1f6bbac326bd8b7c0c8554acaa169012
 
 网址： https://www.zhuanzhi.ai/paper/ba690c59e0f80fc34e779b1daa769988
 
-7、Deep Long-Tailed Learning: A Survey（深度长尾学习）
+### 7、Deep Long-Tailed Learning: A Survey（深度长尾学习）
 
 NUS颜水成等发布首篇《深度长尾学习》综述，20页pdf172篇文献阐述长尾类别深度学习进展
 
@@ -368,7 +368,7 @@ NUS颜水成等发布首篇《深度长尾学习》综述，20页pdf172篇文献
 
 网址： https://www.zhuanzhi.ai/paper/195ac6db0eea180eb9d5b5ef8f4ab0f4
 
-8、Trustworthy AI: From Principles to Practices（可信人工智能）
+### 8、Trustworthy AI: From Principles to Practices（可信人工智能）
 
 京东等学者发布《可信赖人工智能》综述论文，62页pdf449篇文献全面阐述可信赖AI的理论与方法
 
@@ -380,7 +380,7 @@ NUS颜水成等发布首篇《深度长尾学习》综述，20页pdf172篇文献
 
 https://www.zhuanzhi.ai/paper/00386996069b8168827d03f0c809a462
 
-9、Masked Autoencoders Are Scalable Vision Learners（简单实用的自监督学习掩码自编码MAE）
+### 9、Masked Autoencoders Are Scalable Vision Learners（简单实用的自监督学习掩码自编码MAE）
 
 何恺明最新一作论文：简单实用的自监督学习掩码自编码MAE，ImageNet-1K 87.8%！
 
@@ -398,7 +398,7 @@ https://www.zhuanzhi.ai/paper/00386996069b8168827d03f0c809a462
 
 https://www.zhuanzhi.ai/paper/1dbb3e8f5e16dc9a048a02ceee8eb617
 
-10、徐宗本院士谈人工智能的10个重大数理基础问题
+### 10、徐宗本院士谈人工智能的10个重大数理基础问题
 
 徐宗本院士：人工智能的10个重大数理基础问题
 
@@ -412,5 +412,170 @@ https://www.zhuanzhi.ai/paper/1dbb3e8f5e16dc9a048a02ceee8eb617
 
 (1) 大数据的统计学基础; (2) 大数据计算的基础算法; (3) 数据空间的结构与特性; (4) 深度学习的数学机理; (5) 非正规约束下的最优输运; (6) 如何学习学习方法论; (7) 如何突破机器学习的先验假设; (8) 机器学习的自动化; (9) 知识推理与数据学习的融合; (10) 智能寻优与人工智能芯片问题.
 
+## 2022->2023必看的十篇「深度学习领域综述」论文]
+
+### **1、重庆邮电大学校长高新波教授：人工智能未来发展趋势分析**
+
+[**重庆邮电大学校长高新波教授：人工智能未来发展趋势分析**](http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&mid=2247589696&idx=2&sn=949de690d292a63fe8871c08da6dad50&chksm=fc877e53cbf0f7454ae1790bb46c0c3a2ae43e10698d63d9ecba35a3f11ad71e597b77e5f048&scene=21#wechat_redirect)
+
+**作者**：高新波 **摘要**： 如果按照聪明和笨、勤奋和懒惰来划分，世人大致可分为四类：聪明且勤奋、笨但勤奋、聪明却懒惰、笨且懒惰。一般而言，前两种人成功的几率会比较大。因此，人们总结出“勤能补拙是良训，一份汗水一份才”的成功经验。进而得出了 “聪明人都在下笨功夫，愚蠢的人都在找捷径”这样看似很有道理的名言警句。与此同时，人们又常说“聪明是一种天赋，勤奋是一种选择”，因此大家往往会把勤奋看成一种美德，而把聪明贬低为“小聪明”。但是，在现实生活中靠勤奋成功的人，总是给人一种很悲壮的感觉，令人尊重但并不让人羡慕。如果可以选择，我们当然希望选择聪明。
+
+聪明往往是指一个人机智灵活，学习中具有举一反三、触类旁通的能力。这样的人不费多少力气就能掌握某种知识和技能，而且善于解决复杂问题，尤其是以前没有处理过的问题。而勤奋则是指认认真真努力干好每一件事情，不怕吃苦，踏实肯干。这样的人默默持久的坚持，有一种水滴石穿、永不言弃的精神。
+
+经过了60多年的发展，人工智能（Artificial Intelligence, AI）就是父母口中所说的那个别人家的孩子，看上去毫不费力却取得了很大的成功。其实，今天的AI只是一个勤奋、听话、精力充沛、几近完美的“笨小孩”。比如，打败围棋九段柯洁和李世石的AlphaGo存储了多达100万盘棋谱，它正是通过学习这些数据才总结出柯洁和李世石下棋的策略，进而提前做出布局。而柯洁和李世石两个人加起来终其一生也不可能下到100万盘棋。尽管后来AlphaGo的升级版AlphaGo Zero已经无需再输入棋谱，而是从零基础开始，通过自己左右互搏自学成才。AlphaGo Zero不断探索和累积经验，现在已碾压AlphaGo。但是，我们却很难把AlphaGo和AlphaGo Zero与“聪明”关联起来。因为它们的成功更多来自“勤能补拙”，就像是我们自己家的那个懂事勤奋又刻苦的孩子，确实取得了很大成功，但是着实相当不易，非常辛苦！我们由衷地为孩子高兴，却又总觉得苦了孩子，总希望他们能多一点聪明，少一点辛劳！同样的道理，我们也希望未来的AI更多地赢在“智能”而不是“人工”上。
+
+对于未来AI的发展，大家都做出了很多预测。概括起来，大致可以总结为以下六个方面的发展趋势。如果在这些方面不断取得新突破，就会使AI不仅勤奋而且聪明，可更好地满足人们的需要。
+
+**网址**：
+
+https://mp.weixin.qq.com/s/qEjGFrxYb7LaBHDYaznS7Q
+
+### **2、Physics-Informed Machine Learning: A Survey on Problems, Methods and Applications（物理信息机器学习）**
+
+[**什么是物理信息机器学习(PIML)？清华最新《基于物理信息的机器学习:问题、方法和应用》综述，42页pdf全面阐述PIML进展**](http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&mid=2247613721&idx=1&sn=9628c85481da788792f3214718a1bdca&chksm=fc87dc0acbf0551c821e8dc4c2c3bb914587f4cc05bba659bb47c969004a06ed31f98ea8ab4b&scene=21#wechat_redirect)
+
+****![img](https://cdn.zhuanzhi.ai/vfiles/97972284f052c9069e29e83f3a59d426)
+
+------
+
+数据驱动机器学习的最新进展已经彻底改变了计算机视觉、强化学习以及许多科学和工程领域。在许多现实世界和科学问题中，生成数据的系统是受物理定律支配的。最近的研究表明，通过结合物理先验和收集到的数据，它为机器学习模型提供了潜在的好处，这使得机器学习和物理的交叉成为一个流行的范式。**在本次综述中，我们提出了一种被称为物理信息机器学习(PIML)的学习范式，它旨在建立一个模型，利用经验数据和可用的物理先验知识来提高一组涉及物理机制的任务的性能**。我们从机器学习任务、物理先验的表示和融合物理先验的方法三个角度系统地回顾了基于物理的机器学习的最新发展。根据该领域目前的发展趋势，我们提出了几个重要的开放研究问题。我们认为，将不同形式的物理先验编码到模型架构、优化器、推理算法和重要的领域特定应用(如逆向工程设计和机器人控制)中，在基于物理的机器学习领域中还远远没有得到充分的探索。我们相信这项研究将鼓励机器学习领域的研究人员积极参与到基于物理的机器学习的跨学科研究中来。 https://www.zhuanzhi.ai/paper/01607bcd00ae3cab2bbac713236498ea ![img](https://cdn.zhuanzhi.ai/vfiles/f6ba516a25d00402141b24ba41d6cec5)
+
+**网址**：
+
+https://www.zhuanzhi.ai/paper/01607bcd00ae3cab2bbac713236498ea
+
+**[信息论揭开深度学习黑匣子？纽约大学研究员Ravid博士论文《深度神经网络信息流》139页pdf探究信息瓶颈来解释深度学习理论](http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&mid=2247587955&idx=1&sn=065f5385c96f4d3395e60aab2786e59c&chksm=fc877960cbf0f076472f0e0fd7178a1a6ffac5bec4eadd36f449b43e505e261bb339aca95e7d&scene=21#wechat_redirect) **
+
+### **3、智能计算**
+
+[**什么是智能计算？之江实验室等90页pdf《智能计算：进展、挑战与未来》全面阐述智能计算理论基础，智能和计算的技术融合，重要的应用**](http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&mid=2247614206&idx=1&sn=4de7f34e28915bfb25ce5b6cb670d61b&chksm=fc87dfedcbf056fb3e970c66113236e735ce761d37337c4d67d75ff74d290a24a7a2fcaac65c&scene=21#wechat_redirect)
+
+![img](https://cdn.zhuanzhi.ai/vfiles/5b8fd5bba21176ce6a040f02fb708a0e)
+
+------
+
+计算是人类文明发展的重要动力。**近年来，我们见证了智能计算的出现，一种新的计算范式正在重塑传统计算，以新的计算理论、架构、方法、系统和应用在大数据、人工智能和物联网时代推动着数字革命。智能计算极大地拓宽了计算的范围，从传统的数据计算扩展到日益多样化的计算范式，如感知智能、认知智能、自主智能和人机融合智能**。长期以来，智能和计算经历了不同的演变和发展路径，但近年来却日益交织在一起:智能计算不仅是智能导向的，而且是智能驱动的。这种交叉融合促进了智能计算的出现和快速发展。智能计算仍处于初级阶段，智能计算在理论、系统和应用方面的大量创新有望很快出现。**我们提出了第一个关于智能计算的文献综合调查，涵盖了其理论基础，智能和计算的技术融合，重要的应用，挑战，和未来的展望**。我们相信这项调查是非常及时的，它将为学术和工业研究人员和从业者提供全面的参考和有价值的见解。 https://www.zhuanzhi.ai/paper/bc5925fc771a07607f776bb668320cd5
+
+****![img](https://cdn.zhuanzhi.ai/vfiles/e924019824ff5cfc160883780f34fbe3)
+
+### **4、扩散模型三综述（Diffusion Model）**
+
+[**最近大火的“扩散模型”首篇综述来了！北大最新《扩散模型:方法和应用》综述，23页pdf涵盖200页文献**](http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&mid=2247608203&idx=1&sn=5785a2b9422e30bfcffed9bf379106b6&chksm=fc87c698cbf04f8e23a3c65b6bdf9d5aaff25f512a941f91ef4b9a1b91347d58277ffd9d088e&scene=21#wechat_redirect)
+
+![img](https://cdn.zhuanzhi.ai/vfiles/5988b7d4876130db2227e33998e8fa98)
+
+扩散模型是一类具有丰富理论基础的深度生成模型，在各种任务中都取得了令人印象深刻的结果。尽管扩散模型比其他最先进的模型取得了令人印象深刻的质量和样本合成多样性，但它们仍然存在昂贵的采样程序和次优的似然估计。近年来，研究人员对扩散模型性能的改进表现出极大的热情。**在这篇文章中，我们提出了扩散模型的现有变体的第一个全面的综述。具体地说，我们提供了扩散模型的第一个分类，并将它们的变体分为三种类型，即采样-加速增强、可能性-最大化增强和数据泛化增强。我们还详细介绍了其他五种生成模型(即变分自编码器、生成对抗网络、归一化流、自回归模型和基于能量的模型)，并阐明扩散模型和这些生成模型之间的联系**。然后对扩散模型的应用进行了深入的研究，包括计算机视觉、自然语言处理、波形信号处理、多模态建模、分子图生成、时间序列建模和对抗性纯化。此外，我们提出了关于发展这一生成模式的新观点。
+
+https://www.zhuanzhi.ai/paper/edf9ba1200e0740b307a923e23f4c96
+
+![img](https://cdn.zhuanzhi.ai/vfiles/80c1b009b7013118976e6706961f851f)
+
+**[扩散模型综述又一弹！西湖大学李子青等最新《生成式扩散模型》综述，18页pdf详解扩散模型基础、方法体系和应用](http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&mid=2247608614&idx=1&sn=aa352c22025a677831e8d509fd91a54c&chksm=fc87c835cbf04123e0a71832ca300bb51bab8eaf8d5ab10653191b514e0620a4e0ab92f7e99e&scene=21#wechat_redirect) **
+
+![img](https://cdn.zhuanzhi.ai/vfiles/5a4e163e0ef0988a78a213b3c1d01231)
+
+A Survey on Generative Diffusion Model Hanqun Cao, Cheng Tan, Zhangyang Gao, Guangyong Chen, Pheng-Ann Heng, Senior Member, IEEE, and Stan Z. Li, Fellow, IEEE 由于深度潜在表示，深度学习在生成任务中显示出巨大的潜力。生成模型是一类可以根据某些隐含参数随机生成观察结果的模型。近年来，扩散模型以其强大的生成能力成为生成模型的一个新兴门类。如今，已经取得了巨大的成就。除了计算机视觉、语音生成、生物信息学和自然语言处理外，该领域还将探索更多的应用。然而，扩散模型有其生成过程缓慢的天然缺陷，导致许多改进的工作。**本文对扩散模型的研究领域进行了综述。我们首先阐述两项标志性工作的主要问题，DDPM及DSM**。然后，我们提出了一系列先进的技术来加速扩散模型——训练计划、无训练采样、混合建模以及得分与扩散的统一。对于现有的模型，我们还根据具体的NFE提供了FID score, IS, NLL的基准。此外，还介绍了扩散模型的应用，包括计算机视觉、序列建模、音频、科学人工智能等。最后，对该领域的研究现状进行了总结，指出了研究的局限性和进一步的研究方向。 https://www.zhuanzhi.ai/paper/1fee483da0347749193cb9e6848254cc **![img](https://cdn.zhuanzhi.ai/vfiles/3bc2257b9951e4f7bc54180b76b6037c) **
 
 
+
+**[大“火”的扩散模型综述又一弹！UCF等《视觉扩散模型》综述，20页pdf详述三种通用的扩散建模框架](http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&mid=2247608843&idx=1&sn=eb6d7eaca842c2ca7efb1b8af0d531e8&chksm=fc87cb18cbf0420e7047bab586b20cb248298e69184d304ecedcd36cd239a432ff4f1aaa1bf9&scene=21#wechat_redirect) **
+
+![img](https://cdn.zhuanzhi.ai/vfiles/766bd27dad9a31c348c40f4f74ddbe98)
+
+去噪扩散模型是计算机视觉中的一个新兴课题，在生成建模领域显示了显著的结果。扩散模型是基于正向扩散和反向扩散两个阶段的深度生成模型。在正向扩散阶段，通过加入高斯噪声对输入数据进行逐级扰动。在反向阶段，模型的任务是通过学习逐步逆转扩散过程来恢复原始输入数据。扩散模型因其生成样本的质量和多样性而受到广泛赞赏，尽管其已知的计算负担，即采样过程中涉及的大量步骤导致速度较低。**本文对应用于视觉的去噪扩散模型的文章进行了全面的回顾，包括该领域的理论和实践贡献**。首先，我们确定并提出了三种通用的扩散建模框架，它们是基于去噪扩散概率模型、噪声条件评分网络和随机微分方程。我们进一步讨论了扩散模型和其他深层生成模型之间的关系，包括变分自编码器、生成对抗网络、基于能量的模型、自回归模型和归一化流。然后，我们介绍了一种多视角分类扩散模型在计算机视觉中的应用。最后，我们说明了扩散模型目前的局限性，并展望了一些有趣的未来研究方向。 https://www.zhuanzhi.ai/paper/3b8069429047d95eed52a50e7b1fdece
+
+**![img](https://cdn.zhuanzhi.ai/vfiles/e661c64e509309b6a8af0d8d74709965) **
+
+### **5、知识图谱**
+
+[**「新一代知识图谱关键技术」最新2022进展综述**](http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&mid=2247607915&idx=1&sn=694cfbc1119affea11acc885c7ffeb04&chksm=fc87c778cbf04e6e9939f02a5dbfa9f6251bed85e4e7a0eb6d433a6323d13055eb9c32a1dcac&scene=21#wechat_redirect)
+
+![img](https://cdn.zhuanzhi.ai/vfiles/b9dec016385057353ffc70b415e0bb0a)
+
+近年来,国内外在新一代知识图谱的关键技术和理论方面取得了一定进展,以知识图谱为载体 的典型应用也逐渐走进各个行业领域,包括智能问答、推荐系统、个人助手等．然而,在大数据环境和新 基建背景下,数据对象和交互方式的日益丰富和变化, **对新一代知识图谱在基础理论、体系架构、关键技 术等方面提出新的需求,带来新的挑战．将综述国内外新一代知识图谱的关键技术研究发展现状,重点 从非结构化多模态数据组织与理解、大规模动态图谱表示学习与预训练模型、神经符号结合的知识更新 与推理３方面对国内外研究的最新进展进行归纳、比较和分析**．最后,就未来的技术挑战和研究方向进 行展望。
+
+https://crad.ict.ac.cn/CN/10.7544/issn1000-1239.20210829
+
+****![img](https://cdn.zhuanzhi.ai/vfiles/80597936eaa550b2735f0cb6a33a9ee2)
+
+[**什么是事件知识图谱？中科院计算所发布《事件知识图谱综述》综述论文，阐述从历史、本体、实例和应用视角定义EKG**](http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&mid=2247578152&idx=1&sn=412f53989558a0617f13c73afde35b54&chksm=fc87533bcbf0da2d83f6a92c49a6a6e9f18d7a7fcd2966fb01e99e1f1793ae14c7435a84454f&scene=21#wechat_redirect)
+
+![img](https://cdn.zhuanzhi.ai/vfiles/60eddac8ab33acfa993da567adf98026)
+
+除了以实体为中心的知识(通常以知识图谱(knowledge Graph, KG)的形式组织起来)，事件也是世界上必不可少的一种知识，它引发了以事件为中心的知识表示形式(Event KG, EKG)的兴起。它在许多机器学习和人工智能应用中发挥着越来越重要的作用，如智能搜索、问题回答、推荐和文本生成。**本文从历史、本体、实例和应用视图等方面对EKG进行了全面的综述。**为了更全面地描述EKG，我们将重点关注它的历史、定义、模式归纳、获取、相关的代表性图形/系统和应用程序。研究了其发展过程和趋势。我们进一步总结了未来EKG研究的发展方向。
+
+https://www.zhuanzhi.ai/paper/bf7ce841fad61ba3514d25683edbfb68
+
+[**复旦发布首篇《多模态知识图谱构建与应用》综述论文，全面阐述现有MMKG技术体系与进展**](http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&mid=2247587377&idx=1&sn=e7bc3ea35d187720899bb3f0db9ee4d0&chksm=fc877722cbf0fe347810a956643dda8b3e2f67b58af83b78f264b0f54472cbf9310810be2e53&scene=21#wechat_redirect)
+
+![img](https://cdn.zhuanzhi.ai/vfiles/01b77282e7d81f3807989d1ca719595d)
+
+近年来，以知识图谱快速增长的知识工程又重新兴起。然而，现有的知识图谱大多用纯符号表示，这损害了机器理解现实世界的能力。知识图谱的多模态化是实现人机智能的必然步骤。这一努力的结果是多模态知识图(MMKGs)。**在本研究中，我们首先给出了由文本和图像构成的多模态任务的定义，然后对多模态任务和技术进行了初步探讨。然后，我们系统地回顾了MMKG在构建和应用方面所面临的挑战、进展和机遇，并详细分析了不同解决方案的优势和劣势。我们通过与MMKG相关的开放研究问题来完成这项综述。****
+
+**https://www.zhuanzhi.ai/paper/eb595148463eb3d796db1617db88e43a
+
+![img](https://cdn.zhuanzhi.ai/vfiles/c60eff43e1d71316c1bfb770f4365816)
+
+### 6、图神经网络
+
+[**「图神经网络」最新2022综述**](http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&mid=2247578406&idx=1&sn=57497edbeec4ea7d0b0799b8aa61dd0a&chksm=fc875235cbf0db237cffbe8a5fce33860748c5c5f20541cf4641d93d4b70969ca463f55c982a&scene=21#wechat_redirect)
+
+![img](https://cdn.zhuanzhi.ai/vfiles/67ab45c3adff0c8f97c2e1a2dc24b804)
+
+近几年来,将深度学习应用到处理和图结构数据相关的任务中越来越受到人们的关注．图神经 网络的出现使其在上述任务中取得了重大突破,比如在社交网络、自然语言处理、计算机视觉甚至生命 科学等领域得到了非常广泛的应用．图神经网络可以把实际问题看作图中节点之间的连接和消息传播 问题,对节点之间的依赖关系进行建模,从而能够很好地处理图结构数据．**鉴于此,系统综述了图神经网络模型以及应用．**首先从谱域、空间域和池化３方面对图卷积神经网络进行了阐述．然后,描述了基于注意 力机制和自编码器的图神经网络模型,并补充了一些其他方法实现的图神经网络．其次,总结了针对图 神经网络能不能做大做深等问题的讨论分析．进而,概括了图神经网络的４个框架．还详细说明了在图 神经网络在自然语言处理、计算机视觉等方面的应用．最后,对图神经网络未来的研究进行了展望和总 结．相较于已有的图神经网络综述文章,详细阐述了谱理论知识,并对基于谱域的图卷积神经网络体系 进行全面总结．同时,给出了针对空间域图卷积神经网络效率低的改进模型这一新的分类标准．并总结 了针对图神经网络表达能力、理论保障等的讨论分析,增加了新的框架模型．在应用部分,阐述了图神经 网络的最新应用．
+
+https://crad.ict.ac.cn/CN/10.7544/issn1000-1239.20201055
+
+### **7、因果发现**
+
+[**西安交大最新《深度学习因果发现》综述论文，26页pdf涵盖211篇文献阐述三种深度因果范式**](http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&mid=2247609011&idx=1&sn=8c907535eb5e2888b14a3ccdc395638f&chksm=fc87cba0cbf042b6ac95eeba114b5f82ae91566ac86f6b4e902e5c89d1052e0c1a7fe7ee4f95&scene=21#wechat_redirect)
+
+![img](https://cdn.zhuanzhi.ai/vfiles/5b1dbccff0b0de8cd4a2d65428f3d3af)
+
+理解因果关系有助于构建干预措施，以实现特定目标，并实现干预措施下的预测。随着因果关系学习的重要性日益突出，因果发现任务已经从使用传统方法从观察数据中推断潜在的因果结构转向深度学习所涉及的模式识别领域。海量数据的快速积累促进了具有良好可扩展性的因果搜索方法的出现。**现有的因果发现方法综述主要集中在基于约束、评分和FCMs的传统方法上，缺乏对基于深度学习的方法的完善梳理，也缺乏对可变范式视角下的因果发现方法的思考和探索**。因此，我们根据变量范式将可能的因果发现任务划分为三种类型，并分别给出了三种任务的定义，定义并实例化了每一任务的相关数据集和最终构建的因果模型，然后回顾了现有的针对不同任务的主要因果发现方法。最后，针对目前因果发现领域的研究空白，从不同角度提出了一些路线图，并指出了未来的研究方向。 https://www.zhuanzhi.ai/paper/bfef07cc5c2b2c27cad1beb8002dbb4a
+
+### 8、多模态Transformer
+
+[**牛津大学发布首篇《Transformer多模态学习》综述论文，23页pdf涵盖310篇文献全面阐述MMT的理论与应用**](http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&mid=2247598117&idx=1&sn=7011eafe1a510c2f39b0e9920db18357&chksm=fc87a136cbf028206e551a74f84ee10ecb25cc84e7ee639c6dc7efb08c36423f5f2e318159a1&scene=21#wechat_redirect)
+
+------
+
+![img](https://cdn.zhuanzhi.ai/vfiles/63e8a3a239bc714ba0874064a14a67f0)
+
+Transformer是一种很有前途的神经网络学习器，在各种机器学习任务中都取得了很大的成功。随着近年来多模态应用和大数据的普及，基于Transformer 的多模态学习已成为人工智能研究的热点。**本文介绍了面向多模态数据的Transformer 技术的全面综述**。本次综述的主要内容包括:(1)多模态学习、Transformer 生态系统和多模态大数据时代的背景，(2)从几何拓扑的角度对Vanilla Transformer、Vision Transformer和多模态Transformer 进行理论回顾，(3)通过两个重要的范式，即多模态预训练和具体的多模态任务，对多模态Transformer 的应用进行回顾。(4)多模态Transformer 模型和应用共享的共同挑战和设计的总结，以及(5)对社区的开放问题和潜在研究方向的讨论。
+
+https://www.zhuanzhi.ai/paper/0da69832c8fd261e9badec8449f6fe80
+
+![img](https://cdn.zhuanzhi.ai/vfiles/603999535a08edb9a7eb79e858b3a21a)
+
+### **9、目标检测**
+
+[小目标如何检测？西工大韩军伟等发布《大规模小目标检测》综述，20页pdf全面阐述小目标检测方法和自动驾驶与空中场景基准数据集](http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&mid=2247603442&idx=1&sn=55ac69bf1e2d29f2eb397443e81b3373&chksm=fc87b5e1cbf03cf798d5d397654400d918a68ca7d53ac8ed0610cd3c1cfb7dc0bc1a87b99a20&scene=21#wechat_redirect)
+
+------
+
+![img](https://cdn.zhuanzhi.ai/vfiles/5960165de3f1b0dbd044cd9f8622106b)
+
+随着深度卷积神经网络的兴起，目标检测在过去几年取得了显著的进展。然而，这样的繁荣并不能掩盖小目标检测(SOD)不理想的情况，这是计算机视觉中最具挑战性的任务之一，因为小目标的内在结构导致视觉外观差和噪声表示。**此外，大规模数据集对小目标检测方法的基准测试仍然是一个瓶颈**。**在本文中，我们首先对小目标检测进行了全面的综述**。然后，为了促进SOD的发展，我们构建了两个大型小目标检测数据集SODA (Small Object Detection dAtasets)， SODA- d和SODA- a，分别针对Driving和Aerial场景。SODA-D包括24704个高质量流量图像和277596个9类实例。对于SODA-A，我们获取了2510张高分辨率航空图像，并在9个类上注释了800203个实例。正如我们所知，提出的数据集是首次尝试使用为多类别SOD定制的大量注释详尽的实例集合进行大规模基准测试。最后，我们评估了主流方法在SODA上的性能。我们期望发布的基准能够促进SOD的发展，并在该领域产生更多的突破。数据集和代码将很快在https://shaunyuan22.github.io/SODA上发布。
+
+https://www.zhuanzhi.ai/paper/5e221f87497fb30800af3b26413080c0
+
+### **10、AI+军事**
+
+[**AI如何促进态势感知？2022美国空军AFRL等「态势感知」万字综述论文，24也pdf阐述智能战场态势感知技术、挑战和前景**](http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&mid=2247589964&idx=1&sn=0ef6023af3f2f4d8ad0f437c14676f24&chksm=fc87815fcbf008492908dd4d799dd6a13cc34980e692bfe2a95321c9e74411d86f10b7bb811a&scene=21#wechat_redirect)
+
+**态势感知 (SA) 被定义为对环境中实体的感知、对其意义的理解以及对其近期状态的预测。**从空军的角度来看，SA 是指理解和预测空域内红蓝飞机和地面威胁的当前和未来部署的能力。**在本文中，我们提出了一个 SA 和动态决策模型，该模型结合了人工智能和动态数据驱动的应用系统，以根据不断变化的情况调整测量和资源。我们讨论了 SA 的测量以及与 SA 量化相关的挑战。**然后，我们阐述了大量有助于改进 SA 的技术，从不同的情报收集模式到人工智能，再到自动视觉系统。然后，我们介绍了 SA 的不同应用领域，包括战场、灰色地带战、军事和空军基地、国土安全和国防以及关键基础设施。最后，我们以对 SA 提出未来的见解。
+
+![img](https://cdn.zhuanzhi.ai/vfiles/19fa4564f0a9de48b1b32cf56d177747)
+
+[**量子技术+军事？这篇最新53页pdf《量子技术在军事中的应用》万字综述论文阐述未来量子战争形态 (附中文版）**](http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&mid=2247590760&idx=1&sn=f29a0ae29fd1a9f1264eb7213a1cd736&chksm=fc87827bcbf00b6d659002ab6971a18cdf7283c0485d1645dec18ea1c7d6936887ae1110e272&scene=21#wechat_redirect)
+
+量子技术是一门新兴且具有潜在破坏性的学科，能够影响许多人类活动。量子技术是两用技术，因此对国防和安全行业以及军事和政府行为者很感兴趣。**本报告回顾并描绘了可能的量子技术军事应用，作为国际和平与安全评估、伦理研究、军事和政府政策、战略和决策制定的切入点**。用于军事应用的量子技术引入了新的能力，提高了效率和精度，从而导致了“**量子战争**”，其中应该建立新的军事战略、学说、政策和伦理。**本文提供了正在开发的量子技术的基本概述，还估计预期的交付时间范围或利用率影响。描述了量子技术在各种战争领域（例如陆地、空中、太空、电子、网络和水下战争以及ISTAR——情报、监视、目标获取和侦察）的特定军事应用，并阐明了相关的问题和挑战。**
+
+![img](https://cdn.zhuanzhi.ai/vfiles/8b0e3c4048a5d5eedc2542d0fd99e345)
+
+[**中科院空天院等最新《基于深度学习的多模态遥感数据融合》综述论文，全面阐述多模态融合技术**](http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&mid=2247594621&idx=1&sn=19620be473b3c1e7e1812523f42e2688&chksm=fc87936ecbf01a78bd25cefcd6ca63cbf9605902802ffdb38635bf593728ab35957910b483e6&scene=21#wechat_redirect)
+
+![img](https://cdn.zhuanzhi.ai/vfiles/d8fd5f340198bdebc56fefb3a5ba37fa)
+
+随着遥感(RS)技术的飞速发展，大量具有复杂的异质的地观(EO)数据的出现，使得研究人员有机会以一种全新的方式处理当前的地球科学应用。近年来，随着地观数据的联合利用，多模态遥感数据融合的研究取得了巨大的进展，但由于缺乏对这些强异构数据的综合分析和解释能力，这些已开发的传统算法不可避免地遇到了性能瓶颈。因此，这一不可忽视的局限性进一步引发了对具有强大加工能力的替代工具的强烈需求。深度学习(Deep learning, DL)作为一项前沿技术，凭借其出色的数据表示和重构能力，在众多计算机视觉任务中取得了显著的突破。自然，该方法已成功应用于多模态遥感数据融合领域，与传统方法相比有了很大的改进。**本研究旨在对基于深度学习的多模态遥感数据融合进行系统的综述。更具体地说，首先给出了关于这个主题的一些基本知识**。随后，通过文献调研分析了该领域的发展趋势。从拟融合数据模态的角度，综述了多模态遥感数据融合中的一些流行子领域，即空间光谱、时空、光探测和测距光学。从融合数据模态的角度，综述了多模态遥感数据融合的几个子领域，即空间光谱、时空、光探测与测距-光学、合成孔径雷达-光学、RS-地理空间大数据融合。在此基础上，对多模态遥感数据融合技术的发展进行了有益的总结。最后，强调了剩余的挑战和潜在的未来方向。

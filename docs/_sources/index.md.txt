@@ -11,6 +11,7 @@
 ```{toctree}
 :maxdepth: 2
 :caption: 目录
+Method/index.md
 List/index.md
 ```
 
